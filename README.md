@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/303e179c-77b4-4a98-9ae7-c6d2de4e292e" /># EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
